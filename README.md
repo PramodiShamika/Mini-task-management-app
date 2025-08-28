@@ -1,2 +1,16 @@
 # Mini-task-management-app
-Mini Task Management App (MERN Stack) – A simple mobile app to add, update, and manage daily tasks with a clean UI, built using MongoDB, Express.js, React, and Node.js.
+# MERN Task App
+
+## Technologies Used
+- Frontend: React.js, Axios
+- Backend: Node.js, Express
+- Database: MongoDB (Atlas)
+- Authentication: JWT
+
+## Setup
+
+### Backend
+1. Go to `backend` folder:
+   ```bash
+   cd backend
+
